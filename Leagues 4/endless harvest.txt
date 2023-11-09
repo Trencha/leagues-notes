@@ -1,13 +1,13 @@
 Lumbridge - Lap 1
 -----------------
 Pickpocket a man
-Do it again 28 times and open coin pouches
+Do it again 28 times and open all coin pouches at once
 Grab items from Sage
 Visit Death
 Dance in Lumbridge Graveyard
-Catch Shrimp until 5 Fishing (get a few more to make sure you can level Cooking)
 Mine Copper and Tin until 15 Mining
-Misthalin Mystery
+Catch Shrimp until 5 Fishing (get a few more to make sure you can level Cooking)
+Misthalin Mystery (take 2x bucket and knife during quest, we will need them)
 
 Karamja - Lap 1
 ---------------
@@ -16,15 +16,16 @@ Pick Pineapple
 Ride cart to Shilo Village
 Sell unneeded items to the General Store
 Buy Torch from General Store and light it
+Bank
 Buy Fishing Rod, Fly Fishing Rod and bait (leave a bit of extra cash)
-Cast Home Teleport from the Spellbook
+Cast Home Teleport from the Spellbook (not the area teleport)
 
 Lumbridge - Lap 2
 -----------------
-Buy shears, pot and 2 buckets from Gen Store (and knife if we don't have one yet)
-Bank (need shears, axe, pot, bucket)
 Start Rune Mysteries and locate with the Air Talisman
 Start Cook's Assistant
+Bank (store everything except coins, buckets, pot, axe, shears)
+Visit General Store, make sure you have shears, pot, 2 buckets
 Kill Goblin
 Bury Bones
 Milk a cow TWICE (one for Gertrude)
@@ -45,8 +46,13 @@ Finish Sheep Shearer
 
 Draynor - Lap 1
 ---------------
-Grab Forestry set
+Insult Aggie
+Complete Draynor Rooftop course 10 times
+Start Vampyre Slayer
+Get a task from the Wise Old Man
+Make Wise Old Man angry (ask about his hat and tell him he robbed the bank, may need to see the robbery recording first)
 Bank
+Grab Forestry set
 Chop trees until 15 WC
 Chop Oak
 Fletch Arrow shafts
@@ -54,12 +60,7 @@ Burn logs
 Burn Oak logs
 Cook Shrimp
 Burn something
-Insult Aggie
-Complete Draynor Rooftop course 10 times
-Start Vampyre Slayer
-Get a task from the Wise Old Man
-Ask the Wise Old Man about his hat and tell him he robbed the bank (may need to see the recording first)
-Rod fish until 15, then catch an Anchovy
+Rod fish until 15, then catch an anchovy, then fish until 20 (note anchovies only heal 1)
 Use a Herring on a tree (!)
 Cook enough food to do Stronghold of Security (keep a Sardine for Gertrude's Cat)
 (Don't do more WC yet - wait until you can farm for a Rune Axe)
@@ -116,7 +117,7 @@ Lumbridge - Lap 3
 Get a Steel Axe and cut trees with it
 Smelt an Iron Bar
 Use the free runes from the Magic Tutor to cast Air Strike a few times
-Find a farmer to pickpocker until 15
+Find a farmer to pickpocker until 15 Thieving
 Pickpocket HAM members for an Iron Pickaxe
 Ideally get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
 
@@ -125,3 +126,5 @@ Freeform from here
 Should have completed well over 70 tasks at this point
 Probably have another relic and/or another region.
 Work through the skilling tasks e.g. 100 lobs, 100 willows, 50 Iron
+Start training combats
+At some point after getting 5 Def buy a Spiny Helm and equip it
