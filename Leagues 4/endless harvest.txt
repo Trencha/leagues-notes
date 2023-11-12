@@ -1,8 +1,10 @@
 Lumbridge - Lap 1
 -----------------
+(Note: if worried about competition, rush the Copper and Tin first)
 Pickpocket a man
 Do it again 28 times and open all coin pouches at once
 Grab items from Sage
+Get Ironman armour
 Visit Death
 Dance in Lumbridge Graveyard
 Mine Copper and Tin until 15 Mining
@@ -47,7 +49,7 @@ Finish Sheep Shearer
 Draynor - Lap 1
 ---------------
 Insult Aggie
-Complete Draynor Rooftop course 10 times
+Complete Draynor Rooftop course 10 times and until you get a Mark of Grace
 Start Vampyre Slayer
 Get a task from the Wise Old Man
 Make Wise Old Man angry (ask about his hat and tell him he robbed the bank, may need to see the robbery recording first)
@@ -72,7 +74,7 @@ Edgeville
 Smelt Bronze
 Get a Slayer Task from Vannaka
 Buy Slayer Gem and use it to check task
-Stronghold of Security
+Stronghold of Security, equip the boots
 
 Varrock
 -------
@@ -83,19 +85,25 @@ Sell unneeded Bronze gear
 Buy and equip an Elemental Staff (Air or Fire probably best)
 Get the Stake for Vampyre Slayer
 Pet a stray dog
-Steal some Tea
+Steal some Tea (don't drink it or drop it, needed for Elsie)
 Do Rune Mysteries Aubury step
 Natural History Quiz
 Have Elsie tell you a story
 Slash a web in the sewers
-Daddy's Home (do Gertrude's Cat while there too)
-Mine a few Iron (don't need many yet, wait for Steel Pick)
 Go to Fossil Island
 Pet the dog on Fossil Island
 Make the Fossil Island bank if possible (21 Cons, don't think it's quite possible yet)
-Complete Gertrude's Cat (DO NOT DROP THE STEW, BANK IT)
+Grab some planks on the floor to save some cash
+Daddy's Home (do Gertrude's Cat while there too)
+Mine a few Iron (don't need many yet, wait for Steel Pick)
+Complete Gertrude's Cat (do not drop the stew reward, bank it)
+
+Zanaris
+-------
 Fairy Ring to Zanaris
 Catch a Baby Impling in Puro Puro
+Fairy Ring CKR to Karamja (CKR)
+Catch a Karambwanji (be careful of the Hobgoblin)
 Fairy Ring to Wizard's Tower (DIS)
 
 Draynor - Lap 2
@@ -103,7 +111,7 @@ Draynor - Lap 2
 Finish Rune Mysteries
 Teleport to the Essence Mine
 Give the Draynor Guard the Stew from Gertrude's Cat
-Get Ned to make some Rope
+Get Ned to make 3 Rope buy talking to him (don't use the shop interface)
 
 Karamja - Lap 2
 ---------------
@@ -119,7 +127,7 @@ Lumbridge - Lap 3
 Get a Steel Axe and cut a tree with it
 Smelt an Iron Bar
 Use the free runes from the Magic Tutor to cast Air Strike a few times
-Find a farmer to pickpocker until 15 Thieving
+Find a farmer to pickpocket until 15 Thieving
 Pickpocket HAM members for an Iron Pickaxe
 Ideally get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
 
