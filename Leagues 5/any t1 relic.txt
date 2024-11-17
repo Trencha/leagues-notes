@@ -7,36 +7,48 @@ Grab items from Sage
 Get Ironman armour
 Visit Death
 Dance in Lumbridge Graveyard
-Mine Copper and Tin until 15 Mining
-Catch Shrimp until 5 Fishing (get a few more to make sure you can level Cooking)
+If Mining relic, Mine Copper and Tin until ~17 Mining
 Misthalin Mystery (take 2x bucket and knife during quest, we will need them)
+Catch Shrimp until 5 Fishing or until inventory full (turn off the Harpoon's banking if you have Fishing relic)
+If there is a fire, cook some Shrimp so you have food for Stronghold
+Speak to Count Check and ask him to teleport you to the Stronghold
+
+Varrock - Lap 1
+-----------------------------
+Complete Stronghold of Security, equip boots
+If you were able to mine Tin and Copper, smelt it into Bronze at Edgeville furnace
 
 Karamja - Lap 1
 ---------------
 Teleport to Brimhaven
-Pick Pineapple
-Ride cart to Shilo Village
+Pick Pineapple (if they haven't already been picked)
+Ride cart to Shilo Village (talk, don't use the right-click option)
 Sell unneeded items to the General Store
 Buy Torch from General Store and light it
-Bank
 Buy Fishing Rod, Fly Fishing Rod and bait (leave a bit of extra cash)
+Get Slayer Task from Duradel
+Buy a Slayer Gem and Spiny Helmet from Duradel
+(Equip the Spiny Helmet when you get 5 Defence)
+Check Slayer task on the gem
+Bank if you have no space
 Cast Home Teleport from the Spellbook (not the area teleport)
 
 Lumbridge - Lap 2
 -----------------
-Start Rune Mysteries and locate with the Air Talisman
-Start Cook's Assistant
+Start Rune Mysteries
+Go downstairs and locate with the Air Talisman
 Bank (store everything except coins, buckets, pot, axe, shears)
+Start Cook's Assistant
 Visit General Store, make sure you have shears, pot, 2 buckets
 Kill Goblin
 Bury Bones
-Milk a cow TWICE (one for Gertrude)
+Milk a cow TWICE (one for Gertrude if not taking F as a region) (maybe not, Gertrude might be autocompleted this league)
 Pick up an egg (chicken coop near the windmill or farm near cows)
 Start Sheep Shearer
-Shear 20 Sheep
+Shear 20 Sheep (if there is no competition)
 Cry in Wheat Field
 Make Flour
-Chop the tree in the potato field near the windmill
+Chop the tree in the potato field near the windmill (if there is no competition)
 Enter Draynor Manor
 Get a chair to follow you
 Teleport back to Lumbridge
@@ -52,34 +64,21 @@ Insult Aggie
 Complete Draynor Rooftop course 10 times and until you get a Mark of Grace
 Start Vampyre Slayer
 Get a task from the Wise Old Man
+Buy Chronicle and some teleports
 Bank
 Grab Forestry set
-Chop trees until 15 WC
-Chop Oak
-Fletch Arrow shafts
-Burn logs
-Burn Oak logs
 Cook Shrimp
 Burn something
 Rod fish until 15, then catch an anchovy, then fish until 20 (note anchovies only heal 1)
 Use a Herring on a tree (!)
-Cook enough food to do Stronghold of Security (keep a Sardine for Gertrude's Cat)
-(Don't do more WC yet - wait until you can farm for a Rune Axe)
 Do Rune Mysteries step in Wizard's Tower
 Use Wizard's Tower Fairy ring to enter Zanaris, then go to Edgeville (DKR)
 
-Edgeville
----------
-Smelt Bronze
-Get a Slayer Task from Vannaka
-Buy Slayer Gem and use it to check task
-Stronghold of Security, equip the boots
-
-Varrock
--------
-Start Gertrude's Cat (pick up Doogle Leaves)
-Smith Bronze (Full Helm and Plateskirt are tasks, get some Nails for Daddy's Home)
-Romeo and Juliet
+Varrock - Lap 2
+---------------
+Start Gertrude's Cat (pick up Doogle Leaves) (note Gertrude might be autocompleted this League)
+Smith Bronze if you smelted some earlier (Full Helm and Plateskirt are tasks, get some Nails for Daddy's Home)
+Romeo and Juliet (if not autocompleted)
 Sell unneeded Bronze gear
 Buy and equip an Elemental Staff (Air or Fire probably best)
 Get the Stake for Vampyre Slayer
@@ -94,7 +93,7 @@ Pet the dog on Fossil Island
 Make the Fossil Island bank if possible (21 Cons, don't think it's quite possible yet)
 Grab some planks on the floor to save some cash
 Daddy's Home (do Gertrude's Cat while there too)
-Mine a few Iron (don't need many yet, wait for Steel Pick)
+Mine a few Iron (don't need many yet, just enough to smelt a bar without failing, wait for Steel Pick before mining more)
 Complete Gertrude's Cat (do not drop the stew reward, bank it)
 
 Zanaris
@@ -117,23 +116,28 @@ Karamja - Lap 2
 Buy a Lobster Pot from the Traders in Brimhaven
 Enter POH
 Build a Parlour in POH
+Pick pineapple (if you didn't do it earlier and they haven't already been picked)
 Enter the Brimhaven Dungeon (need an Axe)
 Fill a crate with bananas
 Go to Shilo Village and catch 50 Salmon
 
 Lumbridge - Lap 3
 -----------------
-Get a Steel Axe and cut a tree with it
+Get a Steel Axe
+Chop trees until 15 WC
+Chop Oak
+Fletch Arrow shafts
+Burn logs
+Burn Oak logs
 Smelt an Iron Bar
 Use the free runes from the Magic Tutor to cast Air Strike a few times
 Find a farmer to pickpocket until 15 Thieving
 Pickpocket HAM members for an Iron Pickaxe
-Ideally get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
 
 Freeform from here
 ------------------
 Should have completed well over 70 tasks at this point
 Probably have another relic and/or another region.
 Work through the skilling tasks e.g. 100 lobs, 100 willows, 50 Iron
+At some point, get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
 Start training combats
-At some point after getting 5 Def buy a Spiny Helm and equip it
