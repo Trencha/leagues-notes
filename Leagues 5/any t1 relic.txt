@@ -1,8 +1,5 @@
 Some notes:
-- Skip Gertrude's Cat steps if you plan on taking Fremennik as your first region, as it will autocomplete
-- Skip Rune Mysteries steps if you plan on taking Desert as your first region, as it will autocomplete
 - Do not do Mining and Smithing steps if you do not have the Mining relic
-- Some quests such as Gertrude's Cat might be autocompleted this League, obviously don't do the steps for tho
 
 
 Lumbridge - Lap 1
@@ -10,57 +7,51 @@ Lumbridge - Lap 1
 (Note: if worried about competition, rush the Copper and Tin first)
 Pickpocket a man
 Do it again 28 times and open all coin pouches at once (don't worry if you die, you'll just respawn immediately)
-Start Rune Mysteries
-Locate with the Air Talisman (need to be on ground floor)
 Grab items from Sage
 Get Ironman armour
 Visit Death if you didn't die trying to pickpocket a Man
 Dance in Lumbridge Graveyard
 Mine Copper and Tin until ~17 Mining
+(Optional: do Misthalin Mystery - bit of a waste of time as it's not a task, but gets you to ~17 Crafting)
 Catch Shrimp until 5 Fishing or until inventory full (turn off the Harpoon's banking if you have Fishing relic)
 If there is a fire, cook some Shrimp so you have food for Stronghold
 Speak to Count Check and ask him to teleport you to the Stronghold
 
 Varrock
------------------------------
+-------
 Complete Stronghold of Security, equip boots
 If Mining relic and you were able to mine Tin and Copper, smelt it into Bronze at Edgeville furnace
-Start Gertrude's Cat (pick up Doogle Leaves)
-Smith Bronze Bars if you have them (Full Helm and Plateskirt are tasks, get some Nails for Daddy's Home)
-Romeo and Juliet (if not autocompleted)
+Make sure you have your small net on you
+Go to Zanaris via the Fairy Ring
+Go to Fairy Ring CKR
+Catch a Karambwanji (be careful of the Hobgoblin)
+Go back to Fairy Ring DKR
+Smith Bronze Bars if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home)
 Sell unneeded Bronze gear
 Buy and equip an Elemental Staff (Air or Fire probably best)
+Buy a Longsword if you don't already have one (for slashing the web in the sewers)
 Pet a stray dog
+Teleport to the Essence Mine via Aubury
 Steal some Tea (don't drink it or drop it, needed for Elsie)
 Natural History Quiz
 Have Elsie tell you a story
-Slash a web in the sewers
+Slash a web in the sewers (don't forget to bring a longsword or knife, also bring food if you have any)
+Daddy's Home
 Go to Fossil Island
 Pet the dog on Fossil Island
 Make the Fossil Island bank if possible (21 Cons, don't think it's quite possible yet)
 Grab some planks on the floor to save some cash
-Daddy's Home (do Gertrude's Cat while there too)
-Mine a few Iron (don't need many yet, just enough to smelt a bar without failing, wait for Steel Pick before mining more)
-Complete Gertrude's Cat (do not drop the stew reward, bank it)
-Fairy Ring to Zanaris
+Mine a few Iron if you have 15 Mining (don't need many yet, just enough to smelt a bar without failing, wait for pickaxe upgrade before mining more)
 
-Zanaris
+Karamja
 -------
-Catch a Baby Impling in Puro Puro
-Fairy Ring CKR to Karamja (CKR)
-Catch a Karambwanji (be careful of the Hobgoblin)
-Fairy Ring to Wizard's Tower (DIS)
-Do Rune Mysteries step
-
-Karamja - Lap 1
----------------
 Teleport to Brimhaven
 Fill a crate with bananas
 Teleport back to Brimhaven
 Buy a Lobster Pot and Knife from the Traders in Brimhaven
 Enter POH
 Build a Parlour in POH
-Pick Pineapple (if they haven't already been picked)
+Pick a Pineapple (if they haven't already been picked)
 Ride cart to Shilo Village (use the talk option to save money, don't use the right-click travel option)
 Sell unneeded items to the General Store
 Buy Torch from General Store and light it
@@ -69,42 +60,33 @@ Get Slayer Task from Duradel
 Buy a Slayer Gem and Spiny Helmet from Duradel
 (Equip the Spiny Helmet when you get 5 Defence)
 Check Slayer task on the gem
-Bank (store everything except coins, buckets, pot, axe, shears)
+Bank (store everything except coins, bucket, pot, axe, shears)
 Cast Home Teleport from the Spellbook (not the area teleport)
 
 Lumbridge - Lap 2
 -----------------
 Buy a Steel Axe from Bob
-Visit General Store, make sure you have shears, pot, 2 buckets
+Get free runes from the Magic tutor
+Visit General Store, make sure you have shears, pot, bucket
 Kill Goblin
 Bury Bones
-Milk a cow TWICE (one for Gertrude if not taking F as a region) (maybe not, Gertrude might be autocompleted this league)
-Pick up an egg (chicken coop near the windmill or farm near cows)
+Milk a cow
+Pick up an egg (chicken coop near the windmill)
 Start Sheep Shearer
-Shear 20 Sheep (if there is no competition) and you have 20 inventory spaces
+Shear 20 Sheep (if there is no competition and you have 20 inventory spaces)
 Cry in Wheat Field
 Make Flour (might have to temporarily drop a wool to hold wheat)
 Chop the tree in the potato field near the windmill (if there is no competition)
-Enter Draynor Manor
-Get a chair to follow you
-Teleport back to Lumbridge
-Make 20 Wool if you were able to get wool
-Do Cook's Assistant (you should already have all the items)
-Cook something on the Lumbridge Range
-Rake the Tree Patch
-Finish Sheep Shearer if you have the wool
 
 Draynor
 -------
-Insult Aggie
-Complete Draynor Rooftop course 10 times and until you get a Mark of Grace
+Bank your stuff if you have a full inventory
+Insult Aggie (she may take something from your inventory if it's not empty, so make sure to bank e.g. the Cook's Assistant items)
+Complete Draynor Rooftop course 10 times and make sure to pick up a Mark of Grace
 Start Vampyre Slayer
 Get Ned to make 3 Rope by talking to him (don't use the shop interface)
 Get a task from the Wise Old Man
-Give the Draynor Guard the Stew from Gertrude's Cat
-Buy Chronicle and some teleports
-Grab Forestry set
-Bank
+Buy Chronicle and some teleports if you are still a ways from unlocking your teleport relic
 Rod fish until 15, then catch an anchovy, then fish until 20 (note anchovies only heal 1)
 Use a Herring on a tree (!)
 Chop trees until 15 WC
@@ -112,30 +94,29 @@ Chop Oak
 Fletch Arrow shafts
 Burn logs
 Burn Oak logs
-Do Rune Mysteries step in Wizard's Tower
-
-Finishing up quests
--------------------
-Chronicle teleport
-Get Stake for Vampyre Slayer
-Do Rune Mysteries Aubury step
-Go to the Edgeville Fairy Ring and teleport to Wizard's Tower (DIS)
-Finish Rune Mysteries
-Teleport to the Essence Mine
+Grab Forestry kit
+Enter Draynor Manor
+Get a chair to follow you
 
 Lumbridge - Lap 3
 -----------------
+Teleport back to Lumbridge
+Do Cook's Assistant (you should already have all the items banked)
+Make 20 Balls of Wool if you were able to get wool
+Cook something on the Lumbridge Range
+Rake the Tree Patch
+Finish Sheep Shearer if you have the wool
 Smelt an Iron Bar
-Use the free runes from the Magic Tutor to cast Air Strike a few times
 Find a farmer to pickpocket until 15 Thieving
-Pickpocket HAM members for an Iron Pickaxe
+Pickpocket HAM members for a better Pickaxe if you don't have the Mining relic
 
 Freeform from here
 ------------------
 Should have completed well over 70 tasks at this point
 Probably have another relic and/or another region.
+Other things to do:
 Enter the Brimhaven Dungeon (need an Axe)
 Work through the skilling tasks e.g. 100 lobs, 100 willows, 50 Iron, 50 Salmon
 At some point, get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
 Start training combats
-Finish Vampyre Slayer
+Do Vampyre Slayer
