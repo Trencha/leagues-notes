@@ -26,24 +26,24 @@ Some notes to bear in mind while you're doing early tasks:
 
 Lumbridge - Lap 1
 -----------------
-(Note: if worried about competition, rush the Copper and Tin first)
+(Note: if worried about competition and using Mining relic, rush the Copper and Tin first)
 Turn on your prayer
 Kill a Rat (there should be one pretty much right where you spawn, if not there are some to the bottom-left of the castle)
 Pickpocket a man
 Do it again 28 times and open all coin pouches at once (don't worry if you die, you'll just respawn immediately)
-Ask Hans how old you are
+Ask Hans how old you are (if he passes while pickpocketing, as him then)
 Grab items from Sage
 Get Ironman armour
 Ask Bob for a quest
-Pray at the altar
+Hopefully your Prayer has run out by now, so Pray at the altar
 Visit Death if you didn't die trying to pickpocket a Man
 Dance in Lumbridge Graveyard
 Mine Copper and Tin until ~17 Mining
 (Optional: do Misthalin Mystery - bit of a waste of time as it's not a task, but gets you to ~17 Crafting)
 Catch Shrimp until 5 Fishing or until inventory full (turn off the Harpoon's banking if you have Fishing relic)
-If there is a fire, cook some Shrimp so you have food for Stronghold
+Chop trees and burn logs until 6 WC
+Cook your Shrimp so you have food for Stronghold
 Kill a level 5 Frog if you're feeling daring (it might kick your ass at this point and waste your food)
-Get more food if you ran out
 Speak to Count Check and ask him to teleport you to the Stronghold
 
 Varrock
@@ -156,11 +156,11 @@ Do Cook's Assistant (you should already have all the items banked)
 Cook something on the Lumbridge Range
 Cook 10 Sardines
 Go into the basement and kill a spider by kicking it (aggressive attack style with no weapon)
-Rake the Tree Patch
+Rake the Tree Patch (buy a rake from the guy who watches the patch)
 Finish Sheep Shearer if you have the wool
 Smelt an Iron Bar
-Take a Canoe to the Champion's Guild (12 WC)
 Find a farmer to pickpocket until 15 Thieving
+Take a Canoe to the Champion's Guild (12 WC)
 Pickpocket HAM members for a better Pickaxe if you don't have the Mining relic
 
 Freeform from here
@@ -175,3 +175,4 @@ Work through the skilling tasks e.g. 100 lobs, 100 willows, 50 Iron, 50 Salmon
 At some point, get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
 Start training combats
 Do Vampyre Slayer
+Do Demon Slayer
