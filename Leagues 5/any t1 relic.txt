@@ -20,6 +20,7 @@ Some notes to bear in mind while you're doing early tasks:
   - Snake in Karamja
   - Spider in Lumbridge by kicking it
   - Imp with an Earth Spell
+  - Dark Wizard south of Varrock
 - If you find a Talisman somehow, use the Locate option with it
 
 
@@ -33,6 +34,7 @@ Do it again 28 times and open all coin pouches at once (don't worry if you die, 
 Ask Hans how old you are
 Grab items from Sage
 Get Ironman armour
+Ask Bob for a quest
 Pray at the altar
 Visit Death if you didn't die trying to pickpocket a Man
 Dance in Lumbridge Graveyard
@@ -107,7 +109,6 @@ Cast Home Teleport from the Spellbook (not the area teleport)
 Lumbridge - Lap 2
 -----------------
 Buy a Steel Axe from Bob
-Ask Bob for a quest
 Get free runes from the Magic tutor
 Visit General Store, make sure you have a pot and bucket
 Kill Goblin
