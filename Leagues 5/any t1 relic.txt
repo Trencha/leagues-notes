@@ -5,7 +5,7 @@ Some notes to bear in mind while you're doing early tasks:
   - Opening a Mystery Box is a task, so make sure to take that if you can
   - Equipping random event clothing (including the frog mask) also has tasks
   - Trading a herb with Jekyll is a task, so keep one on you until you've done it
-- All forestry events have tasks
+- All forestry events have tasks, so do them if you notice them
 - There are tasks to kill the following NPCs, some recommended times to kill them if possible are included in the route:
   - Barbarian in Barbarian Village
   - Chicken with fists
@@ -31,7 +31,7 @@ Turn on your prayer
 Kill a Rat (there should be one pretty much right where you spawn, if not there are some to the bottom-left of the castle)
 Pickpocket a man
 Do it again 28 times and open all coin pouches at once (don't worry if you die, you'll just respawn immediately)
-Ask Hans how old you are (if he passes while pickpocketing, as him then)
+Ask Hans how old you are (if he passes while pickpocketing, ask him then)
 Grab items from Sage
 Get Ironman armour
 Ask Bob for a quest
@@ -39,7 +39,6 @@ Hopefully your Prayer has run out by now, so Pray at the altar
 Visit Death if you didn't die trying to pickpocket a Man
 Dance in Lumbridge Graveyard
 Mine Copper and Tin until ~17 Mining
-(Optional: do Misthalin Mystery - bit of a waste of time as it's not a task, but gets you to ~17 Crafting)
 Catch Shrimp until 5 Fishing or until inventory full (turn off the Harpoon's banking if you have Fishing relic)
 Chop trees and burn logs until 6 WC
 Cook your Shrimp so you have food for Stronghold
@@ -52,43 +51,44 @@ Complete Stronghold of Security, equip boots
 Pick up a beer from the northern building and drink it in that building
 If Mining relic and you were able to mine Tin and Copper, smelt it into Bronze at Edgeville furnace
 Make sure you have your small net on you
-Go to Zanaris via the Fairy Ring
+Go to Zanaris via the Fairy Ring (not sure if this counts for the "Enter Zanaris" task, might have to enter via the hut in Lumbridge Swamp)
 Go to Fairy Ring CKR
-Catch a Karambwanji (be careful of the Hobgoblin)
+Catch a Karambwanji (be careful of the Hobgoblin) (get several if you want to feed a cat)
 Go back to Fairy Ring DKR
-Kill a level 5 Goblin holding a spear if you have enough food
+Smith Bronze Bars at Varrock West if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home)
+Kill a level 5 Goblin holding a spear
 Get a cat from Gertrude and stroke it
-Smith Bronze Bars if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home)
 Sell unneeded Bronze gear
 Buy and equip an Elemental Staff (Air or Fire probably best)
-Buy a Longsword if you don't already have one (for slashing the web in the sewers)
-Buy an Iron Dagger and equip it
+Buy a Longsword if you don't already have one (for slashing the web in the sewers, Longswords have a higher chance of success)
+Buy an Iron Dagger and equip it, then sell it
 Pet a stray dog
-Pick a Cabbage (house south of the pub)
-Speak to the tramp (not Charlie) and refuse to give him money
+Pick a Cabbage (house south of the pub) (skip if there is competition from other players)
+Speak to the tramp (note: *not* Charlie) and refuse to give him money, he should be wandering around near Yarlo's house
 Teleport to the Essence Mine via Aubury
 Mine some essence (there is a medium task to mine 25, but might want to get a better pickaxe first)
 Steal some Tea (don't drink it or drop it, needed for Elsie)
-Natural History Quiz
+Natural History Quiz (optionally can skip for now and wait for additional relic tiers to boost the exp)
 Get a haircut (north of the Museum)
 Have Elsie tell you a story
-Slash a web in the sewers (don't forget to bring a longsword or knife, also bring food if you have any)
-Daddy's Home
-While at the sawmill, turn a regular log into a plank
-Use an item on Old Man Yarlo's hat stand
-Go to Fossil Island
+Do Daddy's Home up to the point where you have to go to the Sawmill
+At the Sawmill, get the items for Yarlo and also turn a regular log into a plank
+From the Sawmill, go to Fossil Island
 Pet the dog on Fossil Island
-Make the Fossil Island bank if possible (21 Cons, don't think it's quite possible yet)
-Grab some planks on the floor to save some cash
+(Optionally, grab some Planks on the floor on Fossil Island to save some cash later)
 Mine a few Iron if you have 15 Mining (don't need many yet, just enough to smelt a bar without failing, wait for pickaxe upgrade before mining more)
+Finish Daddy's Home (optionally wait for relic tiers for more exp, if it gets you 21 Construction you can make the bank on Fossil Island)
+Use a headpiece item on Old Man Yarlo's hat stand
+Buy some Runes from Aubury if you want some, but try to keep around 2000 gp if possible as we still have things to buy later
+Slash a web in the sewers (don't forget to bring a longsword or knife, also bring food if you have any, the skeletons can hurt)
 
 Karamja
 -------
 Teleport to Brimhaven
-Kill an Imp at the volcano and scatter its ashes (use an Earth spell if you have the magic level somehow)
-Kill a snake
-Fill a crate with bananas
+Kill an Imp at the volcano and scatter its ashes (use an Earth spell if you can)
+Kill a snake (southern water pool near Musa Point)
 Eat a banana
+Fill a crate with bananas (requires 10 bananas)
 Teleport back to Brimhaven
 Buy a Lobster Pot and Knife from the Traders in Brimhaven
 Enter POH
@@ -97,7 +97,7 @@ Pick a Pineapple (if they haven't already been picked)
 Ride cart to Shilo Village (use the talk option to save money, don't use the right-click travel option)
 Sell unneeded items to the General Store
 Buy Torch from General Store and light it
-Buy Fishing Rod, Fly Fishing Rod and bait (leave a bit of extra cash)
+Buy Fishing Rod, Fly Fishing Rod and bait (leave around 500 cash if possible)
 Get Slayer Task from Duradel
 Buy a Slayer Gem and Spiny Helmet from Duradel
 (Equip the Spiny Helmet when you get 5 Defence)
@@ -109,34 +109,36 @@ Cast Home Teleport from the Spellbook (not the area teleport)
 Lumbridge - Lap 2
 -----------------
 Buy a Steel Axe from Bob
-Get free runes from the Magic tutor
+Get free runes from the Magic tutor if you didn't buy any from Aubury
 Visit General Store, make sure you have a pot and bucket
+There is an onion spawn upstairs in the General Store. If it's there, take it and eat it, otherwise skip
 Kill Goblin
 Bury Bones
-Take and eat an Onion from Farmer Fred's back garden
+Take and eat an Onion from Farmer Fred's back garden (skip if there is competition from other players)
 Start Sheep Shearer (Farmer Fred will give you some sheers)
-Shear a sheep (if your 1st region unlock doesn't have a shop that sells balls of wool, shear 20 if you have space)
+Shear a sheep
+If your 1st region doesn't have a shop that sells balls of wool, shear 20 sheep if you have space (skip if there is competition from other players)
 Kill a ram
 Milk a cow
 Pick up an egg (chicken coop near the windmill)
 Punch a chicken to death (non-aggressive attack style without a weapon)
 Cry in Wheat Field
 Search the nearby haystack until you find a needle (10% chance)
-Make Flour (might have to temporarily drop a wool to hold wheat)
-Chop the tree in the potato field near the windmill (if there is no competition)
+Make Flour
+Chop the tree in the potato field near the windmill (skip if there is competition from other players)
 
 Draynor
 -------
 Bank your stuff if you have a full inventory
 Insult Aggie (she may take something from your inventory if it's not empty, so make sure to bank e.g. the Cook's Assistant items)
 Complete Draynor Rooftop course 10 times and make sure to pick up a Mark of Grace
-Start Vampyre Slayer
-Get Ned to make 3 Rope by talking to him (don't use the shop interface)
+Start Vampyre Slayer and grab the Garlic
+Get Ned to make 3 Rope by talking to him with 45 coins (don't use the shop interface)
 Get a task from the Wise Old Man
 Buy Chronicle and some teleports if you are still a ways from unlocking your teleport relic
 Rod fish until level 15 or 25 Sardines, whichever takes longer
 Catch an anchovy
-Fish until 20 (note anchovies only heal 1, so don't bother using them)
+Fish until 20 (note: anchovies only heal 1, so don't bother using them)
 Use a Herring on a tree (!)
 Chop trees until 15 WC
 Chop Oak
@@ -152,27 +154,30 @@ Lumbridge - Lap 3
 Teleport back to Lumbridge
 Go up the *northern* staircase
 Spin a ball of wool (or 20 if you got 20)
-Do Cook's Assistant (you should already have all the items banked)
+Grab the Cook's Assistant items from the bank if you don't have them on you
+Do Cook's Assistant
 Cook something on the Lumbridge Range
 Cook 10 Sardines
+Grab the wool for Sheep Shearer if you have it all
 Go into the basement and kill a spider by kicking it (aggressive attack style with no weapon)
-Rake the Tree Patch (buy a rake from the guy who watches the patch)
+Rake the Tree Patch west of the castle (buy a rake from the guy who watches the patch)
 Finish Sheep Shearer if you have the wool
-Smelt an Iron Bar
+Smelt an Iron Bar if you were able to mine any Iron
 Find a farmer to pickpocket until 15 Thieving
-Take a Canoe to the Champion's Guild (12 WC)
-Pickpocket HAM members for a better Pickaxe if you don't have the Mining relic
+Take a Canoe from Lumbridge to the Champion's Guild (12 WC)
 
 Freeform from here
 ------------------
 Should have completed well over 70 tasks at this point
 Probably have another relic and/or another region.
 Other things to do:
+Pickpocket HAM members for a better Pickaxe if you don't have the Mining relic
 Buy a candle from the candle seller in Lumbridge Swamp for 1000 gold
-Enter the Brimhaven Dungeon (need an Axe)
+Enter the Brimhaven Dungeon (need an Axe and 10 WC)
 Equip full Steel
 Work through the skilling tasks e.g. 100 lobs, 100 willows, 50 Iron, 50 Salmon
 At some point, get 13 Magic, buy some Fire and Mind Runes and try to kill a Tree Spirit for a Rune Axe
-Start training combats
-Do Vampyre Slayer
-Do Demon Slayer
+Start training combats (smith Knives to train Ranged?)
+Finish Vampyre Slayer (wait until after tier 3 relic to maximise combat exp)
+Do Demon Slayer (fastest way to the Wizard Tower is the Fairy Ring)
+Potentially do Misthalin Mystery - not a task, but decent for Crafting exp
