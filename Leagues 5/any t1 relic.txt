@@ -103,7 +103,7 @@ Sell unneeded items to the General Store
 Buy Torch from General Store and light it
 Buy Fishing Rod, Fly Fishing Rod and bait (leave around 1200 cash if possible)
 Get Slayer Task from Duradel
-Buy a Slayer Gem and Spiny Helmet from Duradel (might not be able to buy a Spiny Helmet, it costs 650)
+Buy a Slayer Gem and Spiny Helmet from Duradel (do not buy the helmet if it would leave you with less than 200 gp, we need it for a Steel Axe)
 (Equip the Spiny Helmet when you get 5 Defence)
 Check Slayer task on the gem
 Bank (store everything except coins, bucket, pot)
