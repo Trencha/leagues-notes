@@ -34,11 +34,10 @@ Do it again 28 times and open all coin pouches at once (don't worry if you die, 
 Ask Hans how old you are (if he passes while pickpocketing, ask him then)
 Grab items from Sage
 Get Ironman armour
-Ask Bob for a quest
 Hopefully your Prayer has run out by now, so Pray at the altar
 Visit Death if you didn't die trying to pickpocket a Man
 Dance in Lumbridge Graveyard
-Mine Copper and Tin until ~17 Mining
+Mine Copper and Tin until ~17 Mining (skip if there is competition from other players)
 Catch Shrimp until 5 Fishing or until inventory full (turn off the Harpoon's banking if you have Fishing relic)
 Chop trees and burn logs until 6 WC
 Cook your Shrimp so you have food for Stronghold
@@ -47,8 +46,8 @@ Speak to Count Check and ask him to teleport you to the Stronghold
 
 Varrock
 -------
-Complete Stronghold of Security, equip boots
-Pick up a beer from the northern building and drink it in that building
+Complete Stronghold of Security, equip boots (can potentially kill a rat and a level 5 goblin with a spear for tasks)
+Pick up a beer from the northern building and drink it in that building (skip if there is competition from other players)
 If Mining relic and you were able to mine Tin and Copper, smelt it into Bronze at Edgeville furnace
 Make sure you have your small net on you
 Go to Zanaris via the Fairy Ring (not sure if this counts for the "Enter Zanaris" task, might have to enter via the hut in Lumbridge Swamp)
@@ -89,12 +88,12 @@ Slash a web in the sewers (don't forget to bring a longsword or knife, also brin
 Karamja
 -------
 Teleport to Brimhaven
+Buy 11 bananas, a Lobster Pot and a Knife from the Traders in Brimhaven
+Eat a banana
 Kill an Imp at the volcano and scatter its ashes (use an Earth spell if you can)
 Kill a snake (southern water pool near Musa Point)
-Eat a banana
 Fill a crate with bananas (requires 10 bananas)
 Teleport back to Brimhaven
-Buy a Lobster Pot and Knife from the Traders in Brimhaven
 Enter POH
 Build a Parlour in POH
 Pick a Pineapple (if they haven't already been picked)
@@ -112,6 +111,7 @@ Cast Home Teleport from the Spellbook (not the area teleport)
 
 Lumbridge - Lap 2
 -----------------
+Ask Bob for a quest
 Buy a Steel Axe from Bob
 Get free runes from the Magic tutor if you didn't buy any from Aubury
 Visit General Store, make sure you have a pot and bucket
