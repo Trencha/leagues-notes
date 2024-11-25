@@ -54,9 +54,9 @@ Go to Zanaris via the Fairy Ring (not sure if this counts for the "Enter Zanaris
 Go to Fairy Ring CKR
 Catch a Karambwanji (be careful of the Hobgoblin) (get several if you want to feed a cat)
 Go back to Fairy Ring DKR
-Smith Bronze Bars at Varrock West if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home)
 Kill a level 5 Goblin holding a spear
 Get a cat from Gertrude and stroke it
+Smith Bronze Bars at Varrock West if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home)
 Sell unneeded Bronze gear
 Buy and equip an Elemental Staff (Air or Fire probably best)
 Buy a newspaper (Easy Diary task, not a Leagues task)
@@ -79,7 +79,7 @@ At the Sawmill, get the items for Yarlo and also turn a regular log into a plank
 From the Sawmill, go to Fossil Island
 Pet the dog on Fossil Island
 (Optionally, grab some Planks on the floor on Fossil Island to save some cash later)
-Mine a few Iron if you have 15 Mining (don't need many yet, just enough to smelt a bar without failing, wait for pickaxe upgrade before mining more)
+Mine a few Iron if you have 15 Mining (just need enough to smelt a bar without failing) (turn off auto-smelting if you have the Mining relic)
 Finish Daddy's Home (optionally wait for relic tiers for more exp, if it gets you 21 Construction you can make the bank on Fossil Island)
 Use a headpiece item on Old Man Yarlo's hat stand
 Buy some Runes from Aubury if you want some, but try to keep around 2700 gp if possible as we still have things to buy later
@@ -90,7 +90,7 @@ Karamja
 Teleport to Brimhaven
 Buy 11 bananas, a Lobster Pot and a Knife from the Traders in Brimhaven
 Eat a banana
-Kill an Imp at the volcano and scatter its ashes (use an Earth spell if you can)
+Kill an Imp at the volcano and scatter its ashes (kill it with an Earth spell if you can)
 Kill a snake (southern water pool near Musa Point)
 Fill a crate with bananas (requires 10 bananas)
 Teleport back to Brimhaven
@@ -137,7 +137,6 @@ Bank your stuff if you have a full inventory
 Insult Aggie (she may take something from your inventory if it's not empty, so make sure to bank e.g. the Cook's Assistant items)
 Complete Draynor Rooftop course 10 times and make sure to pick up a Mark of Grace
 Start Vampyre Slayer and grab the Garlic
-Get Ned to make 3 Rope by talking to him with 45 coins (don't use the shop interface)
 Get a task from the Wise Old Man
 Buy Chronicle and some teleports if you are still a ways from unlocking your teleport relic
 Rod fish until level 15 or 25 Sardines, whichever takes longer
