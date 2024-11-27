@@ -36,7 +36,7 @@ No point going to Weiss unless you have 72 Mining or 62 Farming and a Snapdragon
 - Plant a Snapdragon Seed (62 Farming)
 - Mine some materials for Icy Basalt (72 Mining) (each Icy Basalt is 1 Basalt (black), 3 Efh (blue), 1 Te (red))
   - You need 1 for a task, and you will probably want more for easier teleportation unless you have Fairy's Flight
-  - There is also a task to teleport with Basalt via your Portal Nexus, which requires 1000 Icy Basalt and 72 Construction
+  - There is also a task to teleport with Basalt via your Portal Nexus, which requires 1000 Basalt, 3000 Efh, and 1000 Te, and 72 Construction
 
 Fairy Ring AJR (Slayer Cave)
 ----------------------------
