@@ -12,14 +12,12 @@ Fairy Ring DKS
 --------------
 - Kill 5 Rock Crabs (1 is a task, 5 is for Easy Diary)
 - Catch a Cerulean Twitch (11 Hunter, Bird Snare) (Easy Diary)
-- Catch a Polar Kebbit (1 Hunter, requires a Noose Wand)
+- Catch a Polar Kebbit (1 Hunter, Noose Wand)
 - Catch a Snowy Knight (35 Hunter, Butterfly Net)
 - Catch a Sapphire Glacialis (25 Hunter, Butterfly Net)
 - Catch a Sabre-Toothed Kebbit (51 Hunter, Axe, Knife)
 - Catch a Sabre-Toothed Kyatt (55 Hunter, Teasing Stick, Axe, Knife)
-- Start Olaf's Quest (40 Firemaking, 50 Cooking, check item reqs on wiki) and do up to the point where you can kill Brine Rats
-  - Might want to only do it up to the step that has you go to Relekka for now and save the rest for later
-  - Kill a Brine Rat (47 Slayer) (killing one is a Medium Diary task, equipping a Brine Sabre is a league task)
+- Kill a Brine Rat (47 Slayer) (killing one is a Medium Diary task, equipping a Brine Sabre is a league task if you want to farm for it)
 - Do a lap of the Penguin Agility course (30 Agility, 34 Construction, needs a Clockwork Suit which requires a Crafting Bench 3 in your house)
 - Kill a Troll (in the passageway to Keldagrim)
 - Start Giant Dwarf so that you can access Keldagrim
@@ -53,14 +51,15 @@ Bring a pickaxe, axe, and Tiara Mould if possible (get one from your house with 
 - Chop and burn some Oak Logs near the House Portal (15 Woodcutting and Firemaking) (Easy Diary)
 - Get a Pet Rock from Askeladden for a Medium Diary task later
 - Fill a bucket of water at the well (there is a bucket of milk you can empty nearby) (Easy Diary)
-- If you haven't yet done the part of Olaf's Quest in Relekka, now is a good time
 - Kill a rooster (house with the churn)
-- Steal a Cow Bell from the Dairy Cow
+- If you haven't yet done the Misthalin task to churn some butter, do it now (grab the bucket of milk from the nearby house) (38 Cooking)
+- Steal a Cow Bell from the Dairy Cow (15 Thieving)
 - Kill Borrokar, Freidir, Jennella, Lanzig and Lensa until they drop a Lyre (~1/17 chance), and equip it
 - Mine some coal (30 Mining) (Medium Diary)
 - If you have a Tiara Mould, mine a silver ore for later (20 Mining, 20 Smithing, 23 Crafting) (for Easy Diary)
 - Go to Jatizso and use the bank
-- Buy 3 Cured Yak Hide from the north-west house and make them into chest and legs and equip them (46 Crafting, Needle, Thread)
+- Go to the north-west house and speak to Vanligga, pay her back the taxes from Fremennik Isles so you can use her shop (5000 gp)
+- Buy 3 Cured Yak Hide from Vanligga and make them into chest and legs and equip them (46 Crafting, Needle, Thread)
 - Mine 5 Adamantite Ores in Jatizso Mine (Hard Diary)
 - Go to Neitiznot
 - Kill a Yak
@@ -81,7 +80,6 @@ Bring a pickaxe, axe, and Tiara Mould if possible (get one from your house with 
 - Cast Moonclan Teleport (69 Magic) (2 Earth, 1 Law, 2 Astral)
 - Cast Spellbook Swap (96 Magic) (1 Law, 2 Cosmic, 3 Astral)
 - Make a Catherby Teletab (87 Magic) (1 Soft Clay, 3 Law, 10 Water, 3 Astral)
-(There is also a task to cast Fertile Soil (83 Magic) (2 Nature, 3 Astral, 15 Earth), but we don't have a Farming patch nearby)
 - If you have Total Recall or Rune Thrownaxe access or a friend, prepare to go through Waterbirth Island dungeon (pet rock, food, protective gear etc)
 - Cast Waterbirth Island Teleport (72 Magic) (1 Water, 2 Astral, 1 Law) (Hard Diary)
   - If you don't have 72 Magic, just swap your Spellbook back to regular and go back to Relekka
@@ -89,7 +87,7 @@ Bring a pickaxe, axe, and Tiara Mould if possible (get one from your house with 
 (If you have done everything in the order listed here, that should be the last task for the Easy Diary)
 - Kill a Dagannoth in Waterbirth Island Dungeon
 - If you have Total Recall or a Rune Thrownaxe or a friend to open the door, go all the way through Waterbirth Island dungeon to the lighthouse (Medium Diary)
-  - Kill a Wallasalki on the way through
+  - Kill a Wallasalki on the way through (must be in the first area, before the Rune Thrownaxe door)
   - Run past the Dagannoth Kings' lair and follow the path
 - Get a Damaged God Book from Jossik and equip it
 

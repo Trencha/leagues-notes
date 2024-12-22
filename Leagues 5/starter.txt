@@ -30,35 +30,36 @@ Lumbridge - Lap 1
 Turn on your prayer
 Kill a Rat (there should be one pretty much right where you spawn, if not there are some to the bottom-left of the castle)
 Pickpocket a man
-Do it again 28 times and open all coin pouches at once (don't worry if you die, you'll just respawn immediately)
+Do it again until 28 coin pouches and open them all at once (don't worry if you die, you'll just respawn nearby so just come back)
 Ask Hans how old you are (if he passes while pickpocketing, ask him then)
 Grab items from Sage
 Get Ironman armour
+Drop your runes and get some more from the Magic Tutor, then pick up the dropped ones
 Hopefully your Prayer has run out by now, so Pray at the altar
 Visit Death if you didn't die trying to pickpocket a Man
 Dance in Lumbridge Graveyard
-Mine Copper and Tin until ~17 Mining (skip if there is competition from other players)
+If you have Mining relic, mine Copper and Tin until ~17 Mining (1 Copper and 5 Tin are tasks) (if you don't have Mining relic, skip due to inventory space)
 Catch Shrimp until 5 Fishing or until inventory full (turn off the Harpoon's banking if you have Fishing relic)
-Chop trees and burn logs until 6 WC
 Cook your Shrimp so you have food for Stronghold
-Kill a level 5 Frog if you're feeling daring (it might kick your ass at this point and waste your food)
+Safespot a level 5 Frog with Air Strike (take off the ironman armour so you don't splash) and bury its bones
 Speak to Count Check and ask him to teleport you to the Stronghold
 
 Varrock
 -------
 Complete Stronghold of Security, equip boots (can potentially kill a rat and a level 5 goblin with a spear for tasks)
+Safespot a Barbarian with Air Strike (keep its bones for the stray dog)
 Pick up a beer from the northern building and drink it in that building (skip if there is competition from other players)
-If Mining relic and you were able to mine Tin and Copper, smelt it into Bronze at Edgeville furnace
+If you have any Tin and Copper that need smelting, smelt it into Bronze at Edgeville furnace
 Make sure you have your small net on you
-Go to Zanaris via the Fairy Ring (not sure if this counts for the "Enter Zanaris" task, might have to enter via the hut in Lumbridge Swamp)
+Go to Zanaris via the Fairy Ring
 Go to Fairy Ring CKR
 Catch a Karambwanji (be careful of the Hobgoblin) (get several if you want to feed a cat)
 Go back to Fairy Ring DKR
-Kill a level 5 Goblin holding a spear
+Kill a level 5 Goblin holding a spear (between the Fairy Ring and Gertrude's house)
 Get a cat from Gertrude and stroke it
-Smith Bronze Bars at Varrock West if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home)
-Sell unneeded Bronze gear
-Buy and equip an Elemental Staff (Air or Fire probably best)
+Smith Bronze Bars at Varrock West if you have them (Full Helm and Plateskirt are tasks, get a Longsword if you can, and some Nails for Daddy's Home, keep hold of the Full Helm for the hatstand task)
+Sell unneeded Bronze gear if you have any
+Buy and equip an Elemental Staff (I recommend an Air Staff)
 Buy a newspaper (Easy Diary task, not a Leagues task)
 Browse Thessalia's store (Easy Diary task, not a Leagues task)
 Buy a Longsword if you don't already have one (for slashing the web in the sewers, Longswords have a higher chance of success)
@@ -67,53 +68,61 @@ Pet a stray dog
 If you have any bones, give them to a dog (Easy Diary task, not a Leagues task)
 Pick a Cabbage (house south of the pub) (skip if there is competition from other players)
 Speak to the tramp (note: *not* Charlie) and refuse to give him money, he should be wandering around near Yarlo's house
-Teleport to the Essence Mine via Aubury
-Mine some essence (there is a medium task to mine 25, but might want to get a better pickaxe first)
+Teleport to the Essence Mine via Aubury, then teleport back
+If you have a high enough Magic level for Earth Strike, buy enough Earth Runes to kill an Imp with it
 Steal some Tea (don't drink it or drop it, needed for Elsie)
 Natural History Quiz (optionally can skip for now and wait for additional relic tiers to boost the exp)
 Get a haircut (north of the Museum)
 Have Elsie tell you a story
 Do Daddy's Home up to the point where you have to go to the Sawmill
+Use a headpiece item on Old Man Yarlo's hat stand (ironman helmet doesn't work, it has to be something that can be dropped)
+Head to the Lumberyard
+Chop trees and burn logs until 6 WC (so you can use a Steel Axe later)
 Chop down a dying tree in the Lumberyard (Easy Diary task, not a Leagues task)
 At the Sawmill, get the items for Yarlo and also turn a regular log into a plank
-From the Sawmill, go to Fossil Island
+From the Sawmill, head towards the Fossil Island barge
+Enter Tolna's dungeon (Medium Diary task, not a Leagues task)
+Go to Fossil Island
 Pet the dog on Fossil Island
 (Optionally, grab some Planks on the floor on Fossil Island to save some cash later)
-Mine a few Iron if you have 15 Mining (just need enough to smelt a bar without failing) (turn off auto-smelting if you have the Mining relic)
+Mine a few Iron if you have 15 Mining (just need enough to smelt an iron bar without failing) (turn off auto-smelting if you have the Mining relic)
 Finish Daddy's Home (optionally wait for relic tiers for more exp, if it gets you 21 Construction you can make the bank on Fossil Island)
-Use a headpiece item on Old Man Yarlo's hat stand
-Buy some Runes from Aubury if you want some, but try to keep around 2700 gp if possible as we still have things to buy later
-Slash a web in the sewers (don't forget to bring a longsword or knife, also bring food if you have any, the skeletons can hurt)
+If you have a high enough Magic level for Earth Strike, buy enough Earth Runes to kill an Imp with it
+Buy additional Runes from Aubury if you want some, but try to keep around 2700 gp if possible as we still have things to buy later.
+Bank all your money and withdraw 200 gp
+Slash a web in the sewers (don't forget to bring a longsword or knife, also bring food if you have any, the enemies can hurt)
 
 Karamja
 -------
 Teleport to Brimhaven
-Buy 11 bananas, a Lobster Pot and a Knife from the Traders in Brimhaven
-Eat a banana
-Kill an Imp at the volcano and scatter its ashes (kill it with an Earth spell if you can)
-Kill a snake (southern water pool near Musa Point)
-Fill a crate with bananas (requires 10 bananas)
-Teleport back to Brimhaven
-Enter POH
+Pick a Pineapple (skip if there is competition from other players)
+Enter POH if you did Daddy's Home to completion
 Build a Parlour in POH
-Pick a Pineapple (if they haven't already been picked)
-Ride cart to Shilo Village (use the talk option to save money, don't use the right-click travel option)
+Buy a rake from the farmer at the Fruit Tree patch and rake the patch
+Buy 11 bananas, a Lobster Pot and a Knife from a Trader Crewmember
+Eat a banana
+Ride cart to Shilo Village (use the talk option to save money, don't use the right-click travel option, it should cost 10 gp if you have 200 gp or less)
 Sell unneeded items to the General Store
 Buy Torch from General Store and light it
+Withdraw your money
 Buy Fishing Rod, Fly Fishing Rod and bait (leave around 1200 cash if possible)
-Get Slayer Task from Duradel
-Buy a Slayer Gem and Spiny Helmet from Duradel (do not buy the helmet if it would leave you with less than 200 gp, we need it for a Steel Axe)
+Get Slayer Task from Duradel (he will give you a Slayer Gem)
+Check your task on the Gem
+Buy a Spiny Helmet from Duradel (do not buy it if it would leave you with less than 200 gp, we need it for a Steel Axe)
 (Equip the Spiny Helmet when you get 5 Defence)
-Check Slayer task on the gem
-Bank (store everything except coins, bucket, pot)
+Bank (store everything except coins, runes, bucket, pot, and bananas)
 Go to the Inn on the north side of the river and pay 35 coins for a room
+Teleport back to Brimhaven
+Kill an Imp at the volcano and scatter its ashes (kill it with an Earth spell if you can)
+Kill a snake (southern water pool near Musa Point)
+Pick 5 bananas from the plantation (skip if there is competition from other players) (Easy Diary task, not a Leagues task)
+Speak to Luthas to get a job, fill a crate with bananas (requires 10 bananas), then talk to him again for 30 gp
 Cast Home Teleport from the Spellbook (not the area teleport)
 
 Lumbridge - Lap 2
 -----------------
 Ask Bob for a quest
 Buy a Steel Axe from Bob
-Get free runes from the Magic tutor if you didn't buy any from Aubury
 Visit General Store, make sure you have a pot and bucket
 There is an onion spawn upstairs in the General Store. If it's there, take it and eat it, otherwise skip
 Kill Goblin
@@ -135,20 +144,20 @@ Draynor
 -------
 Bank your stuff if you have a full inventory
 Insult Aggie (she may take something from your inventory if it's not empty, so make sure to bank e.g. the Cook's Assistant items)
-Complete Draynor Rooftop course 10 times and make sure to pick up a Mark of Grace
+Complete Draynor Rooftop course 10 times and make sure to pick up a Mark of Grace (if you're taking Corner Cutter as your 2nd relic, skip this until you have it)
 Start Vampyre Slayer and grab the Garlic
 Get a task from the Wise Old Man
 Buy Chronicle and some teleports if you are still a ways from unlocking your teleport relic
+Grab Forestry Kit (may as well equip it if you don't have a cape already)
+From here on, do any Forestry events that you haven't done yet, even if you weren't woodcutting (it tells you you'll get reduced rewards, but you still get the task for it)
 Rod fish until level 15 or 25 Sardines, whichever takes longer
 Catch an anchovy
 Fish until 20 (note: anchovies only heal 1, so don't bother using them)
-Use a Herring on a tree (!)
 Chop trees until 15 WC
 Chop Oak
 Fletch Arrow shafts
 Burn logs
 Burn Oak logs
-Grab Forestry kit
 Enter Draynor Manor
 Get a chair to follow you
 
@@ -161,11 +170,10 @@ Grab the Cook's Assistant items from the bank if you don't have them on you
 Do Cook's Assistant
 Cook something on the Lumbridge Range
 Cook 10 Sardines
-Grab the wool for Sheep Shearer if you have it all
+Grab the wool for Sheep Shearer if you have it all, and enough Iron Ore to get a bar if you have any
 Go into the basement and kill a spider by kicking it (aggressive attack style with no weapon)
-Rake the Tree Patch west of the castle (buy a rake from the guy who watches the patch)
+Smelt an Iron Bar in the Lumbridge Furnace if you have any Iron Ore
 Finish Sheep Shearer if you have the wool
-Smelt an Iron Bar if you were able to mine any Iron
 Find a farmer to pickpocket until 15 Thieving
 Take a Canoe from Lumbridge to the Champion's Guild (12 WC)
 
