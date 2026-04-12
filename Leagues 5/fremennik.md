@@ -8,8 +8,8 @@ Before going to Fremennik to start on tasks, it is a good idea to make sure you 
 
 Requirements are given below alongside each task, just skip the ones you can't do yet
 
-Fairy Ring DKS
---------------
+# Fairy Ring DKS
+
 - Kill 5 Rock Crabs (1 is a task, 5 is for Easy Diary)
 - Catch a Cerulean Twitch (11 Hunter, Bird Snare) (Easy Diary)
 - Catch a Polar Kebbit (1 Hunter, Noose Wand)
@@ -27,8 +27,8 @@ Fairy Ring DKS
 - Steal from the gem stall (75 Thieving) (Hard Diary)
 - Get permission to use the Blast Furnace for free (60 Smithing) (Hard Diary)
 
-More Fairy Ring DKS or Fairy's Flight if you have it
------------------------------------------------------
+## More Fairy Ring DKS or Fairy's Flight if you have it
+
 No point going to Weiss unless you have 72 Mining or 62 Farming and a Snapdragon seed
 - Go to Weiss
 - Plant a Snapdragon Seed (62 Farming)
@@ -36,8 +36,8 @@ No point going to Weiss unless you have 72 Mining or 62 Farming and a Snapdragon
   - You need 1 for a task, and you will probably want more for easier teleportation unless you have Fairy's Flight
   - There is also a task to teleport with Basalt via your Portal Nexus, which requires 1000 Basalt, 3000 Efh, and 1000 Te, and 72 Construction
 
-Fairy Ring AJR (Slayer Cave)
-----------------------------
+# Fairy Ring AJR (Slayer Cave)
+
 - Cut the Swaying Tree (north-west of the Fairy Ring) (40 Woodcutting)
 - Kill a Cockatrice (25 Slayer, Mirror Shield)
 - Kill a Pyrefiend (30 Slayer)
@@ -45,8 +45,8 @@ Fairy Ring AJR (Slayer Cave)
 - Kill a Turoth (55 Slayer, Leaf-Bladed weapon or Slayer Dart or Broad Bolts) (gets you a combat mastery point if you haven't already done the 55 Slayer one)
 - Kill a Kurask (70 Slayer, Leaf-Bladed weapon or Slayer Dart or Broad Bolts)
 
-Relekka
--------
+# Relekka
+
 Bring a pickaxe, axe, and Tiara Mould if possible (get one from your house with 44 Construction tools if your regions don't sell it)
 - Chop and burn some Oak Logs near the House Portal (15 Woodcutting and Firemaking) (Easy Diary)
 - Get a Pet Rock from Askeladden for a Medium Diary task later
@@ -84,20 +84,20 @@ Bring a pickaxe, axe, and Tiara Mould if possible (get one from your house with 
 - Cast Waterbirth Island Teleport (72 Magic) (1 Water, 2 Astral, 1 Law) (Hard Diary)
   - If you don't have 72 Magic, just swap your Spellbook back to regular and go back to Relekka
 - Pick up 5 Snape Grass (you can pick up and drop the same one 5 times) (Easy Diary)
-(If you have done everything in the order listed here, that should be the last task for the Easy Diary)
+  - If you have done everything in the order listed here, that should be the last task for the Easy Diary
 - Kill a Dagannoth in Waterbirth Island Dungeon
 - If you have Total Recall or a Rune Thrownaxe or a friend to open the door, go all the way through Waterbirth Island dungeon to the lighthouse (Medium Diary)
   - Kill a Wallasalki on the way through (must be in the first area, before the Rune Thrownaxe door)
   - Run past the Dagannoth Kings' lair and follow the path
 - Get a Damaged God Book from Jossik and equip it
 
-Relekka again
--------------
+## Relekka again
+
 - Once you have collected the Easy Diary reward, deposit something via Peer the Seer
 
 
-Miscellania
------------
+# Miscellania
+
 - Go to Miscellania via Fairy Ring CIP (Medium Diary)
 - Do Throne of Miscellania
 - Do Royal Trouble
