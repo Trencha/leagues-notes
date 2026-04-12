@@ -1,0 +1,106 @@
+This file is currently just copied from the Leagues 5 version
+
+Before going to Fremennik to start on tasks, it is a good idea to make sure you have access to Hunter gear for the related tasks
+- Kandarin, Varlamore and Desert have Hunter shops where you can get them
+- If you have 71 Magic, Hunter Kit from the Lunar Spellbook will provide all of them
+- There is a Bird Snare spawn on the Isle of Souls, west of the Fairy Ring
+- You can get a Butterfly Net from Elnock Inquisitor in Puro-Puro
+- There is a Teasing Stick spawn on Karamja coast near Fairy Ring CKR
+- Noose Wand hard-requires 71 Magic for Hunter Kit if you can't buy it in a shop
+
+Requirements are given below alongside each task, just skip the ones you can't do yet
+
+# Fairy Ring DKS
+
+- Kill 5 Rock Crabs (1 is a task, 5 is for Easy Diary)
+- Catch a Cerulean Twitch (11 Hunter, Bird Snare) (Easy Diary)
+- Catch a Polar Kebbit (1 Hunter, Noose Wand)
+- Catch a Snowy Knight (35 Hunter, Butterfly Net)
+- Catch a Sapphire Glacialis (25 Hunter, Butterfly Net)
+- Catch a Sabre-Toothed Kebbit (51 Hunter, Axe, Knife)
+- Catch a Sabre-Toothed Kyatt (55 Hunter, Teasing Stick, Axe, Knife)
+- Kill a Brine Rat (47 Slayer) (killing one is a Medium Diary task, equipping a Brine Sabre is a league task if you want to farm for it)
+- Do a lap of the Penguin Agility course (30 Agility, 34 Construction, needs a Clockwork Suit which requires a Crafting Bench 3 in your house)
+- Kill a Troll (in the passageway to Keldagrim)
+- Start Giant Dwarf so that you can access Keldagrim
+- Open the Stonemason's shop (Easy Diary)
+- Steal from the Keldagrim crafting stall until you get a Chisel (5 Thieving)
+- Steal from the Crossbow Stall until you get a Wooden Stock (49 Thieving)
+- Steal from the gem stall (75 Thieving) (Hard Diary)
+- Get permission to use the Blast Furnace for free (60 Smithing) (Hard Diary)
+
+## More Fairy Ring DKS or Fairy's Flight if you have it
+
+No point going to Weiss unless you have 72 Mining or 62 Farming and a Snapdragon seed
+- Go to Weiss
+- Plant a Snapdragon Seed (62 Farming)
+- Mine some materials for Icy Basalt (72 Mining) (each Icy Basalt is 1 Basalt (black), 3 Efh (blue), 1 Te (red))
+  - You need 1 for a task, and you will probably want more for easier teleportation unless you have Fairy's Flight
+  - There is also a task to teleport with Basalt via your Portal Nexus, which requires 1000 Basalt, 3000 Efh, and 1000 Te, and 72 Construction
+
+# Fairy Ring AJR (Slayer Cave)
+
+- Cut the Swaying Tree (north-west of the Fairy Ring) (40 Woodcutting)
+- Kill a Cockatrice (25 Slayer, Mirror Shield)
+- Kill a Pyrefiend (30 Slayer)
+- Kill a Jelly (52 Slayer)
+- Kill a Turoth (55 Slayer, Leaf-Bladed weapon or Slayer Dart or Broad Bolts) (gets you a combat mastery point if you haven't already done the 55 Slayer one)
+- Kill a Kurask (70 Slayer, Leaf-Bladed weapon or Slayer Dart or Broad Bolts)
+
+# Relekka
+
+Bring a pickaxe, axe, and Tiara Mould if possible (get one from your house with 44 Construction tools if your regions don't sell it)
+- Chop and burn some Oak Logs near the House Portal (15 Woodcutting and Firemaking) (Easy Diary)
+- Get a Pet Rock from Askeladden for a Medium Diary task later
+- Fill a bucket of water at the well (there is a bucket of milk you can empty nearby) (Easy Diary)
+- Kill a rooster (house with the churn)
+- If you haven't yet done the Misthalin task to churn some butter, do it now (grab the bucket of milk from the nearby house) (38 Cooking)
+- Steal a Cow Bell from the Dairy Cow (15 Thieving)
+- Kill Borrokar, Freidir, Jennella, Lanzig and Lensa until they drop a Lyre (~1/17 chance), and equip it
+- Mine some coal (30 Mining) (Medium Diary)
+- If you have a Tiara Mould, mine a silver ore for later (20 Mining, 20 Smithing, 23 Crafting) (for Easy Diary)
+- Go to Jatizso and use the bank
+- Go to the north-west house and speak to Vanligga, pay her back the taxes from Fremennik Isles so you can use her shop (5000 gp)
+- Buy 3 Cured Yak Hide from Vanligga and make them into chest and legs and equip them (46 Crafting, Needle, Thread)
+- Mine 5 Adamantite Ores in Jatizso Mine (Hard Diary)
+- Go to Neitiznot
+- Kill a Yak
+- Chop down an Arctic Pine tree (54 Woodcutting)
+- Get a Helm of Neitiznot, equip it as soon as you can
+- Use the bank
+- Teleport back to Relekka
+- Smith your Silver ore into a bar, then into a Tiara (20 Smithing, 23 Crafting) (Easy Diary)
+- Trade Yrsa at the shoe shop (Easy Diary)
+- Steal from the fish stall (42 Thieving) (Medium Diary)
+- Do the rooftop Agility course (80 Agility)
+- Go to Lunar Isle
+- Use the bank
+- Buy runes for any spells you need to cast or put in portals
+- Kill a Suqah (these are also above level 100, so contributes to that combat mastery if you don't already have it)
+- Swap to Lunars
+- Craft 50 Astral Runes (doesn't have to be all at once) (40 Runecraft)
+- Cast Moonclan Teleport (69 Magic) (2 Earth, 1 Law, 2 Astral)
+- Cast Spellbook Swap (96 Magic) (1 Law, 2 Cosmic, 3 Astral)
+- Make a Catherby Teletab (87 Magic) (1 Soft Clay, 3 Law, 10 Water, 3 Astral)
+- If you have Total Recall or Rune Thrownaxe access or a friend, prepare to go through Waterbirth Island dungeon (pet rock, food, protective gear etc)
+- Cast Waterbirth Island Teleport (72 Magic) (1 Water, 2 Astral, 1 Law) (Hard Diary)
+  - If you don't have 72 Magic, just swap your Spellbook back to regular and go back to Relekka
+- Pick up 5 Snape Grass (you can pick up and drop the same one 5 times) (Easy Diary)
+  - If you have done everything in the order listed here, that should be the last task for the Easy Diary
+- Kill a Dagannoth in Waterbirth Island Dungeon
+- If you have Total Recall or a Rune Thrownaxe or a friend to open the door, go all the way through Waterbirth Island dungeon to the lighthouse (Medium Diary)
+  - Kill a Wallasalki on the way through (must be in the first area, before the Rune Thrownaxe door)
+  - Run past the Dagannoth Kings' lair and follow the path
+- Get a Damaged God Book from Jossik and equip it
+
+## Relekka again
+
+- Once you have collected the Easy Diary reward, deposit something via Peer the Seer
+
+
+# Miscellania
+
+- Go to Miscellania via Fairy Ring CIP (Medium Diary)
+- Do Throne of Miscellania
+- Do Royal Trouble
+- Max your favour (Hard Diary)
