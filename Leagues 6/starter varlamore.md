@@ -131,6 +131,11 @@ Once you have 2000 gold:
 - Make a Parlour
 - Aldarin tasks (yet to be revealed)
 
+# Ralos' Rise
+
+- Travel to the Teomat via Quetzel
+- Head north and kill an Icefiend
+
 # Other tasks to do at some point when it's convenient
 
 - Charter ship tasks (needs a decent amount of money, it's 200+ per charter)
