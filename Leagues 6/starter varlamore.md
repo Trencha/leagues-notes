@@ -21,7 +21,7 @@ Random events and Forestry events are tasks again, so do them when you see them 
 
 Worthwhile money-makers:
 - Eclipse Reds (will probably be lots of competition, making it almost impossible to grab the wine)
-- Gems (required 20 Crafting)
+- Gems (requires 20 Crafting)
 - Thieving
 
 Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no Crafting requirement, but it requires 32 Agility and 34 Thieving
@@ -39,6 +39,8 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 
 ## Civitas Illa Fortis
 
+- Optional: take the Quetzal to the Hunter Guild and go pick up Eclipse Reds to sell in Aldarin (also accessible via Quetzal), then go back to Civitas
+  - This will probably be crowded, hence optional
 - Go slightly west to the Kualti HQ
 - Attack a dummy
 - Visit Death's Domain (north of the bank)
