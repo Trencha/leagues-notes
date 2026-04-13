@@ -1,10 +1,8 @@
 # General
 
-We don't unlock Karamja until a little later this time, so Karamja is its own file rather than being included in starters like it was in previous Leagues
+We don't unlock Karamja until a little later this time, but we don't know exactly when, so rather than including it in the starter file like I did in previous Leagues, it's now its own file.
 
-Random events are tasks again, so do them when you see the if you haven't already done that event. The Runelite Random Events plugin can notify you when you get specific events.
-
-Assuming we get an infinite use teleport back to Civitas akin to the free Lumbridge teleport from earlier Leagues, we have easy travel access to the following locations by going back to Civitas and taking the Quetzal:
+Assuming we get an infinite use teleport back to Civitas (or Yama's lair) akin to the free Lumbridge teleport from earlier Leagues, we have easy travel access to the following locations by going back to Civitas and taking the Quetzal:
 
 - Aldarin
 - Auburnvale
@@ -15,16 +13,31 @@ Assuming we get an infinite use teleport back to Civitas akin to the free Lumbri
 
 This means that the task order is more fluid than usual - any section that starts with taking a Quetzal can pretty much be done in any order. However, the order I recommend in here will make sure that you have all items for later sections when you need them.
 
-# Yama's Lair
+**Note**: I have not checked whether we get enough money for this route. If you run out of money... well, my bad I guess. You can always steal some more if you need to, and sell useless stuff to General Stores
+
+## Things I thought are worth noting
+
+Random events and Forestry events are tasks again, so do them when you see them if you haven't already done that event (we'll pick up the Forestry Kit as part of our route). The Runelite Random Events plugin can notify you when you get specific events.
+
+Worthwhile money-makers:
+- Eclipse Reds (will probably be lots of competition, making it almost impossible to grab the wine)
+- Gems (required 20 Crafting)
+- Thieving
+
+Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no Crafting requirement, but it requires 32 Agility and 34 Thieving
+
+# Start
+
+## Yama's Lair
 
 - Claim items from the Leagues tutor (and pets if you want)
 - Toggle run off and back on
 - Consider training Agility unless you're taking Barbarian Gathering or Hotfoot
   - Depends on how good the Agility exp is, currently unknown
   - Also depends on if your first region choice is going to be one that has a low level course for you to train on
-  - There is a 30 point task to jump on Yama's stepping stones 666 times
+  - There is a 30 point task to jump on Yama's stepping stones 666 times. Not sure if this is worth the time. But you're probably going to do it eventually, so may as well get it out of the way?
 
-# Civitas Illa Fortis
+## Civitas Illa Fortis
 
 - Go slightly west to the Kualti HQ
 - Attack a dummy
@@ -58,7 +71,7 @@ This means that the task order is more fluid than usual - any section that start
 - Give Oli the stew (in the courtyard, south of the bank, west of the clothing store)
 - Exit Civitas through the west gate
 
-# Heading west from Civitas
+## Heading west from Civitas
 
 - Pick 6 wheat (partial task)
 - If there is a crop circle in the wheat field, go through it, then return
@@ -77,12 +90,12 @@ This means that the task order is more fluid than usual - any section that start
 - Dance near a bard (at the camp off the path)
 - Mine at least 5 tin and at least 5 copper
   - Note: these are the only Tin rocks in Varlamore, however there are Copper rocks elsewhere in Varlamore
-  - There will likely be a lot of competition, so feel free to skip this if you don't have Endless Harvest
+  - There will likely be a lot of competition, so feel free to skip this if you don't have Endless Harvest and come back later when it's less busy
   - If you want, you can mine more, to 15 Mining, and then mine some Iron too
   - Mining 50 Iron is a task
   - Probably not a good idea to mine much now if you plan on taking Hotfoot, better to wait to optimise Smithing exp
 
-# Cam Torum
+## Cam Torum
 
 - Enter Cam Torum (note: Perilous Moons is autocompleted)
 - Buy a torch from the General Store and light it
@@ -92,14 +105,14 @@ This means that the task order is more fluid than usual - any section that start
 - Buy herblore supplies
   - If you've picked up a Guam somewhere by now, make an Attack Potion
 - Get a haircut
-  - There's a task to get your beard trimmed, I don't know if this actually has to involve a beard or if just getting any haircut suffices
+  - There's a task to get a haircut and another task to get your beard trimmed, I don't know if this actually has to involve a beard or if just getting any haircut is two tasks in one
 - Smith your ores into bars at the furnace
 - If possible, smith full Bronze armour and equip it (requires 18 Smithing)
 - Make an Iron Bar if possible
 - Make 150 Iron Arrowtips if possible (20 Smithing, so probably not)
 - Teleport back to Civitas
 
-# Quetzalcali Gorge
+## Quetzalcali Gorge
 
 - Travel to Quetzalcali Gorge via Quetzal
 - Kill 5 rabbits (there are 4 spawns in the town)
@@ -118,7 +131,7 @@ This means that the task order is more fluid than usual - any section that start
 - Activate the nearby Statue of Ates
 - Step on an ent trail
 
-# Tlati Rainforest
+## Tlati Rainforest
 
 - Travel to Tal Teklan via Quetzal
 - Buy some Iron Arrows from the Archery shop (there is a task to shoot 6 of them)
@@ -128,12 +141,13 @@ This means that the task order is more fluid than usual - any section that start
 - Chop down a tree in the rainforest
 - Take the rowboat to Kastori
 - Activate the Statue of Ates to the north-west
-- Pet a Caique
+- Pet the Caique just south of the statue
+- Pick some sweetcorn
 - Go into the dungeon in the house north of the General Store and kill an imp with Earth Strike
   - Take its ashes but don't scatter them yet
 - Buy fishing supplies (mainly fishing rods, bait and feathers for now)
 
-# South of Civitas Illa Fortis
+## South of Civitas Illa Fortis
 
 - Cast Home Teleport from the Spellbook
 - Scatter the ashes in Yama's Lair
@@ -146,6 +160,7 @@ This means that the task order is more fluid than usual - any section that start
 - Make flour in the windmill
   - Kill a chicken on the top floor and bury its bones
 - Go to Zanaris via the Fairy Ring south of the windmill
+- Kill a cow, bury its bones and take its hide for later (you should have the task for burying 6 bones by now)
 - Take the Fairy Ring to Aldarin (CKQ)
 - Head slightly south to the vineyard and get a Grape Barrel from the vineyard foreman
 - Fill the graph barrel with 4 grapes (pick from the grapevines that have a sparkling animation)
@@ -153,7 +168,6 @@ This means that the task order is more fluid than usual - any section that start
 - Take the Fairy Ring back to where you were (AJP)
 - Head north-east
 - Pick and eat an onion if you didn't do the task earlier
-- Pick sweetcorn
 - Defeat a thief (should be 2 in one of the buildings west of the General Store)
 - Kill a rat (there should be a couple of spawns around the buildings)
 - Head east
@@ -163,25 +177,33 @@ This means that the task order is more fluid than usual - any section that start
 - Cook a shrimp
 - Keep fishing until 5
 - Switch to the Rod spot
-  - Where do we get the bait from if not taking Barbarian Gathering? May need to go to Kastori or Sunset Coast first
 - Keep fishing until 15 Fishing and 25 Sardines
 - Switch back to the Shrimp spot until you catch an Anchovy
 - Cook your stuff
   - There is a task to cook 5 pieces of food in a row without burning them
   - There is also a task to burn something if you somehow haven't already
 - Mine some clay
+  - When you next go back to Civitas, make it into soft clay and turn it into something at the pottery oven (in the Crafting shop next to the east bank)
+  - Buy a needle and thread while you're there
 - Kill a Scorpion to the south-west
-- If you have 15 Woodcutting, complete Ribbiting Tale
-- Turn your clay into soft clay and turn it into something at a pottery oven in Civitas (in the Crafting shop next to the east bank)
+- Chop trees until 15 Woodcutting if you don't have it already
+- Complete Ribbiting Tale of a Lilypad Labour Dispute
 
-# Auburnvale
+## Auburnvale
 
 - Travel to Auburnvale via Quetzal
 - Chop a tree
 - Convert the logs into a plank at the Sawmill for (100gp)
 - Buy and equip and Elemental Staff if you can afford it
+- Tan your cowhide that you got from Zanaris
+- Make some Leather Chaps
 
-# Aldarin
+## Ralos' Rise
+
+- Travel to the Teomat via Quetzel
+- Head north and kill an Icefiend
+
+## Aldarin
 
 Once you have 2000 gold:
 - Travel to Civitas
@@ -197,14 +219,8 @@ Once you have 2000 gold:
 - Enter your house
 - Make a Parlour
 
-# Ralos' Rise
-
-- Travel to the Teomat via Quetzel
-- Head north and kill an Icefiend
-
 # Other tasks to do at some point when it's convenient
 
-- Kill an Icefiend (north of the Teomat, you can get to them fairly quick via Quetzal but they're not really on the way between any other tasks)
 - Charter a ship from Sunset Coast to Civitas (costs 250gp)
 - Equip a Tyras Helm (costs 1375gp and requires 5 Def)
 - Get a Bird Snare from the Hunter Guild shop and catch 5 Crimson Swifts (these are not in a convenient location)
