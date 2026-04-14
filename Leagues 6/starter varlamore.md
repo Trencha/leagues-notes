@@ -11,13 +11,13 @@ Assuming we get an infinite use teleport back to Civitas (or Yama's lair) akin t
 - Hunter Guild
 - Tal Teklan
 
-This means that the task order is more fluid than usual - any section that starts with taking a Quetzal can pretty much be done in any order. However, the order I recommend in here will make sure that you have all items for later sections when you need them.
+This means that the task order is more fluid than usual - any section that starts with taking a Quetzal can pretty much be done in any order. However, the order I chose here will make sure that you have all items for later sections when you need them.
 
 **Note**: I have not checked whether we get enough money for this route. If you run out of money... well, my bad I guess. You can always steal some more if you need to, and sell useless stuff to General Stores
 
 ## Things I thought are worth noting
 
-Random events and Forestry events are tasks again, so do them when you see them if you haven't already done that event (we'll pick up the Forestry Kit as part of our route). The Runelite Random Events plugin can notify you when you get specific events.
+Random events and Forestry events are tasks again, so do them when you see them if you haven't already done that event (we'll pick up the Forestry Kit as part of our route). The Runelite Random Events plugin can notify you when you get specific events. If you get the Sandwich Lady, choose the wrong thing.
 
 Worthwhile money-makers:
 - Eclipse Reds (will probably be lots of competition, making it almost impossible to grab the wine)
@@ -72,8 +72,7 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 ## Heading west from Civitas
 
 - Pick 6 wheat (partial task)
-- If there is a crop circle in the wheat field, go through it, then return
-- Kill a buffalo (they have a max hit of 2 and have 20 HP but they have negative defences, might need to safespot it over the fence)
+- Kill a buffalo (they have a max hit of 2 and have 20 HP but they have negative defences, might need to safespot it over the fence), or use it as an excuse to heal 6 with the Meat Pie
 - Feed its bones to the nearby Chiribaya
 - Pet Chiribaya
 - Buy a rake (and any other Farming gear you need)
@@ -97,9 +96,8 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 
 - Enter Cam Torum (note: Perilous Moons is autocompleted)
 - Buy a torch from the General Store and light it
-- Bank
 - Buy a Steel Pickaxe if you can spare the cash (there is a task to mine some ore with one)
-- Buy runes for Earth spells
+- Buy runes for Earth Strike
 - Buy herblore supplies
   - If you've picked up a Guam somewhere by now, make an Attack Potion
 - Get a haircut
@@ -116,13 +114,13 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 - Kill 5 rabbits (there are 4 spawns in the town)
   - Bury their bones
   - Cook one of them and eat it
-- Bank (withdraw a wool and your cup of tea)
+- Bank for: wool, cup of tea, money
 - Go upstairs in the bank. There is an Iron Dagger spawn. Take it and equip it.
 - Pick 6 Cabbages (this should finish a task to pick 6 wheat, cabbages, and potatoes)
 - Spin your wool on the spinning wheel
 - Pick 6 flax
 - Have the guide take you to Auburn Valley
-- Drink your cup of tea
+- Drink your cup of tea anywhere in Auburn Valley
 - Get a Forestry Kit and equip it (south-west of Nemus Retreat entrance)
 - From now on, do any Forestry events you notice that you haven't done yet
 - Admire some beautiful scenery (should be some just south-east the Friendly Forester)
@@ -133,7 +131,7 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 
 - Travel to Tal Teklan via Quetzal
 - Buy some Iron Arrows from the Archery shop (there is a task to shoot 6 of them)
-- Buy runes for Earth Strike
+- Buy runes for Earth Strike if you don't already have them
 - Buy purple dye and use it on your cape
 - Smith your stuff if you haven't already
 - Chop down a tree in the rainforest
@@ -154,7 +152,6 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 - Buy a pot from the General Store
 - Exit Civitas through the gate south of the bazaar
 - Chop trees as you go for Woodcutting, Firemaking and/or Fletching exp
-- If there is a crop circle in the wheat field, go through it, then return
 - Pick wheat
 - Make flour in the windmill
   - Kill a chicken on the top floor and bury its bones
@@ -162,7 +159,7 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 - Kill a cow, bury its bones and take its hide for later (you should have the task for burying 6 bones by now)
 - Take the Fairy Ring to Aldarin (CKQ)
 - Head slightly south to the vineyard and get a Grape Barrel from the vineyard foreman
-- Fill the graph barrel with 4 grapes (pick from the grapevines that have a sparkling animation)
+- Fill the graph barrel with 4 grapes (pick from the grapevines that have a sparkling animation, there are not many of them)
 - Give it back to the foreman
 - Take the Fairy Ring back to where you were (AJP)
 - Head north-east
