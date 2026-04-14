@@ -1,16 +1,17 @@
-This file is currently just copied from the Leagues 5 version
+Based on the Raging Echoes task list
 
-Before going to Fremennik to start on tasks, it is a good idea to make sure you have access to Hunter gear for the related tasks
-- Kandarin, Varlamore and Desert have Hunter shops where you can get them
-- If you have 71 Magic, Hunter Kit from the Lunar Spellbook will provide all of them
-- There is a Bird Snare spawn on the Isle of Souls, west of the Fairy Ring
-- You can get a Butterfly Net from Elnock Inquisitor in Puro-Puro
-- There is a Teasing Stick spawn on Karamja coast near Fairy Ring CKR
-- Noose Wand hard-requires 71 Magic for Hunter Kit if you can't buy it in a shop
 
-Requirements are given below alongside each task, just skip the ones you can't do yet
+Doing all the tasks here requires a variety of Hunter gear. Normally, this requires specific regions or the Hunter Kit spell from the Lunar Spellbook (71 Magic). But for this League we all have Varlamore, so you can just use the Hunter shop there.
 
 # Fairy Ring DKS
+
+Bring Hunter gear with you:
+- Bird Snare
+- Noose wand
+- Butterfly net
+- Teasing Stick
+- Axe
+- Knife
 
 - Kill 5 Rock Crabs (1 is a task, 5 is for Easy Diary)
 - Catch a Cerulean Twitch (11 Hunter, Bird Snare) (Easy Diary)
