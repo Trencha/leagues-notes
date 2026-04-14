@@ -161,6 +161,7 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 - Head slightly south to the vineyard and get a Grape Barrel from the vineyard foreman
 - Fill the graph barrel with 4 grapes (pick from the grapevines that have a sparkling animation, there are not many of them)
 - Give it back to the foreman
+- Bank any excess stuff
 - Take the Fairy Ring back to where you were (AJP)
 - Head north-east
 - Pick and eat an onion if you didn't do the task earlier
@@ -183,13 +184,13 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
   - Buy a needle and thread while you're there
 - Kill a Scorpion to the south-west
 - Chop trees until 15 Woodcutting if you don't have it already
-- Complete Ribbiting Tale of a Lilypad Labour Dispute
+- Complete Ribbiting Tale of a Lily Pad Labour Dispute
 
 ## Auburnvale
 
 - Travel to Auburnvale via Quetzal
 - Chop a tree
-- Convert the logs into a plank at the Sawmill for (100gp)
+- Convert the logs into a plank at the Sawmill (100gp)
 - Buy and equip and Elemental Staff if you can afford it
 - Tan your cowhide that you got from Zanaris
 - Make some Leather Chaps
@@ -210,7 +211,7 @@ Once you have 2000 gold:
 - Defeat a seagull
 - Chop some oak logs if you have the level
   - Burn some oak logs
-  - Fletch and oak shortbow (bowstrings can be easily obtained from Quetzalcali Gorge once you have 10 Crafting)
+  - Fletch an oak shortbow (bowstrings can be easily obtained from Quetzalcali Gorge once you have 10 Crafting)
   - Fletch 25 Oak Stocks
 - Enter your house
 - Make a Parlour
@@ -223,3 +224,4 @@ Once you have 2000 gold:
 - Find the Gemstone Crab and be fighting it when it burrows (potentially time-consuming)
 - Kill a frog (these only spawn around the shortcut to the Doom boss fight in the Tlati Rainforest, so it's out of the way)
 - Various "fish/mine/fletch/chop etc X amount of resourse" tasks
+- Complete Death on the Isle when you have 34 Thieving and 32 Agility, then activate the Statue of Ates
