@@ -32,10 +32,6 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 
 - Claim items from the Leagues tutor (and pets if you want)
 - Toggle run off and back on
-- Consider training Agility unless you're taking Barbarian Gathering or Hotfoot
-  - Depends on how good the Agility exp is, currently unknown
-  - Also depends on if your first region choice is going to be one that has a low level course for you to train on
-  - There is a 30 point task to jump on Yama's stepping stones 666 times. Not sure if this is worth the time. But you're probably going to do it eventually, so may as well get it out of the way?
 
 ## Civitas Illa Fortis
 
@@ -153,6 +149,7 @@ Death on the Isle lets you skip early Crafting as it rewards 5k exp but has no C
 
 - Cast Home Teleport from the Spellbook
 - Scatter the ashes in Yama's Lair
+- Jump on Yama's stepping stones 666 times
 - Go to Civitas
 - Buy a pot from the General Store
 - Exit Civitas through the gate south of the bazaar
