@@ -10,7 +10,6 @@
 - Thieve a Diamond from the Gem Stall (75 Thieving)
 - Plant some Sweetcorn if you have any seeds for it (20 Farming)
 - Chop 100 Teaks (35 Woodcutting) (drop the logs unless you have a relic that lets you keep them)
-- Make 50 Teak Planks
 - Go up the tower and ring the two bells, then go back down and run to the south-east bank
 - Kill a rabbit and cook it (should be plenty around the south-east bank)
 - Bank for: Mining gear, money, teleport crystal
@@ -34,7 +33,8 @@
 - Leave the dungeon
 - Head towards the Gauntlet
 - Move your house to Priff (70 Construction)
-- Get Ilfeen to charge your teleport crystal (near the house portal)
+- Talk to Ilfeen (near the house portal)
+- Get Eluned to charge your teleport crystal for 250gp (north of the dye shop)
 - Buy and equip a Crystal Crown if you have enough money
 - Grab the memoriam crystal in the cooking pots in Tatie's house (south of the Magic Trees)
 - Chop 50 Magic Logs (75 Woodcutting)
